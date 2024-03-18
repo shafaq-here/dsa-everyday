@@ -1,0 +1,25 @@
+ITS 2024, SO I AM STARTING A NEW SERIES FOR LEARNING DATA STRUCTURES AND ALGORITHMS.
+
+Before I begin with this journey I have a few things decided for certain and with sanity:
+1. As there is more demands for Java Developers in the market, and with Java I can build all three types of systems including Desktop applications like IntelliJ, Web Applications as well as Distributed Services. 
+2. The above point is enough to use Java.
+3. Why not Golang? what happend? The answer is simple, there are lesser number of openings and demand as compared to Go, plus if I evaluate my practical knowledge on go, I dont hold much of that as well. But still, I have different plans with Go in the future.
+4. Why start dsa now? 18th March 2024? I believe I have already wasted alot of my time by avoiding it and not cracking it. It aint that hard. 
+5. What about PHP? So for context, right now I am learning PHP development for getting job at small scale companies that dont ask any algorithimic problems, (the avoidance!), and I think I have come far with this technology and I am enjoying it. So for that I am building some projects and constantly applying for the same.
+6. How am I going to manage two different things once, not a good idea! Well for the time being, I will learn dsa at a slow pace, say 2 hrs/day. And the rest I will focus on PHP job. 
+
+
+Preparation strategy:
+1. As I have lost hold on from Java, I will use Kunal Kushwaha's initial lectures and assignments to clear things up with syntax and Java ecosystem.
+2. After finishing the above, I will use Hackerrank's Java section to get practice on basic Java questions, all of them.
+3. And right after that, I will begin the actual Data Structures and algorithms course from GFG.
+
+Scope of the above strategy:
+1. For step 1, I am alloting 5 days max (this includes the initial lectures from Kunal's playlist and the assignments too).
+2. For step 2, its a long list of problems, which by the way I will be doing in a timely manner, i.e. 30 min I try the problem, and another 30 to understand the better approach. 1-2 months would be enough.
+3. For step 3, which is the whole course on GFG, they say it should take roughly 3 months, but I am alloting it 5 months (this includes the lectures + enlisted problems).
+
+
+
+Detailed Plan for the course:
+.............................. WILL FILL THIS AFTER COMPLETION OF STEP 2......................................
